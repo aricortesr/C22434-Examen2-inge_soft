@@ -13,4 +13,6 @@ public interface ICoffeeMachineStore
     bool TryGetCoffeeStock(string coffeeType, out int amount);
 
     void DecreaseCoffeeStock(string coffeeType, int amount);
+
+    void DecreaseChangeInventory(Dictionary<int, int> changeUsed);
 }
