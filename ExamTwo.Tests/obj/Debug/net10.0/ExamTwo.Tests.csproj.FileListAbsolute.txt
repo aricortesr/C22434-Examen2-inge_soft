@@ -1,0 +1,8 @@
+C:\Users\Arianna\Desktop\ucr\I-2026\Ingeniería de Software\C22434_AriannaCortésRojas_Examen2\C22434-Examen2-inge_soft\ExamTwo.Tests\bin\Debug\net10.0\.msCoverageSourceRootsMapping_ExamTwo.Tests
+C:\Users\Arianna\Desktop\ucr\I-2026\Ingeniería de Software\C22434_AriannaCortésRojas_Examen2\C22434-Examen2-inge_soft\ExamTwo.Tests\bin\Debug\net10.0\CoverletSourceRootsMapping_ExamTwo.Tests
+C:\Users\Arianna\Desktop\ucr\I-2026\Ingeniería de Software\C22434_AriannaCortésRojas_Examen2\C22434-Examen2-inge_soft\ExamTwo.Tests\obj\Debug\net10.0\ExamTwo.Tests.csproj.AssemblyReference.cache
+C:\Users\Arianna\Desktop\ucr\I-2026\Ingeniería de Software\C22434_AriannaCortésRojas_Examen2\C22434-Examen2-inge_soft\ExamTwo.Tests\obj\Debug\net10.0\ExamTwo.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arianna\Desktop\ucr\I-2026\Ingeniería de Software\C22434_AriannaCortésRojas_Examen2\C22434-Examen2-inge_soft\ExamTwo.Tests\obj\Debug\net10.0\ExamTwo.Tests.AssemblyInfoInputs.cache
+C:\Users\Arianna\Desktop\ucr\I-2026\Ingeniería de Software\C22434_AriannaCortésRojas_Examen2\C22434-Examen2-inge_soft\ExamTwo.Tests\obj\Debug\net10.0\ExamTwo.Tests.AssemblyInfo.cs
+C:\Users\Arianna\Desktop\ucr\I-2026\Ingeniería de Software\C22434_AriannaCortésRojas_Examen2\C22434-Examen2-inge_soft\ExamTwo.Tests\obj\Debug\net10.0\ExamTwo.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Arianna\Desktop\ucr\I-2026\Ingeniería de Software\C22434_AriannaCortésRojas_Examen2\C22434-Examen2-inge_soft\ExamTwo.Tests\obj\Debug\net10.0\ExamTwo.Tests.sourcelink.json
